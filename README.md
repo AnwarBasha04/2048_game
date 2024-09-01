@@ -10,5 +10,5 @@ Dynamic Tile Colors: Tiles have different background colors based on their value
 Game Status Alerts: Alerts players when they win or lose the game through message boxes.
 
 # Programmed Used
-Python: The primary programming language used for the game logic and interface.
+Python: The primary programming language used for the game logic and interface.<br>
 Tkinter: Python's standard GUI toolkit used to create the game window and interactive elements.
